@@ -47,4 +47,4 @@ Para más información sobre mi trabajo y proyectos, puedes visitar mi perfil de
 
 ---
 
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis repositorios y te animo a contribuir en los proyectos que te llamen la a
+¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis repositorios y te animo a contribuir en los proyectos que te llamen la atencion.
