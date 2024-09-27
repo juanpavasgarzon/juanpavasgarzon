@@ -1,5 +1,10 @@
 # Bienvenido a mi GitHub
 
+# GitHub:
+![](https://github-readme-stats.vercel.app/api?username=juanpavasgarzon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=juanpavasgarzon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpavasgarzon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## ¡Hola! Soy Juan Fernando Pavas
 
 Soy un desarrollador full-stack con una sólida formación académica y una amplia experiencia en diversas tecnologías. Mi pasión por la tecnología y el desarrollo de software me ha llevado a especializarme en múltiples lenguajes y herramientas, siempre buscando innovar y mejorar mis habilidades.
