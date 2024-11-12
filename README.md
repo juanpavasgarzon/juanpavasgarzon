@@ -1,7 +1,7 @@
 # GitHub:
-![](https://github-readme-stats.vercel.app/api?username=juanpavasgarzon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=juanpavasgarzon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpavasgarzon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
+![](https://github-readme-stats.vercel.app/api?username=juanpavasgarzon&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=juanpavasgarzon&theme=dark&hide_border=true)
 
 ## ¡Hola! Soy Juan Fernando Pavas
 
@@ -51,3 +51,6 @@ Para más información sobre mi trabajo y proyectos, puedes visitar mi perfil de
 ---
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis repositorios y te animo a contribuir en los proyectos que te llamen la atencion.
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpavasgarzon&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
