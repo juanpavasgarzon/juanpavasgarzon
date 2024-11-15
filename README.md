@@ -1,4 +1,4 @@
-## ¡Hola! Soy Juan Pavas 👋
+## ¡Hola! Soy Juan Pavas 👋 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=juanpavasgarzon)
 
 ### 🚀 Desarrollador Full-Stack con Pasión por la Innovación y la Mejora Continua
 
@@ -75,7 +75,6 @@ The tech landscape is always evolving, and I make it a priority to stay updated 
 ### 📬 **Contact**
 
 For more details about my work and projects, feel free to connect on [LinkedIn](https://www.linkedin.com/in/juanpavasgarzon). Thank you for visiting my GitHub profile! I look forward to collaborating on meaningful projects.
-
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
